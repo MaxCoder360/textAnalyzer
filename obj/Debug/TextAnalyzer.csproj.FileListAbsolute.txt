@@ -1,0 +1,23 @@
+C:\Users\maks\source\repos\Semester_2.1\TextAnalyzer\obj\Debug\TextAnalyzer.csproj.AssemblyReference.cache
+C:\Users\maks\source\repos\Semester_2.1\TextAnalyzer\obj\Debug\TextAnalyzer.Properties.Resources.resources
+C:\Users\maks\source\repos\Semester_2.1\TextAnalyzer\obj\Debug\TextAnalyzer.csproj.GenerateResource.cache
+C:\Users\maks\source\repos\Semester_2.1\TextAnalyzer\obj\Debug\TextAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\maks\source\repos\Semester_2.1\TextAnalyzer\bin\Debug\TextAnalyzer.exe.config
+C:\Users\maks\source\repos\Semester_2.1\TextAnalyzer\bin\Debug\TextAnalyzer.exe
+C:\Users\maks\source\repos\Semester_2.1\TextAnalyzer\bin\Debug\TextAnalyzer.pdb
+C:\Users\maks\source\repos\Semester_2.1\TextAnalyzer\obj\Debug\TextAnalyzer.Form1.resources
+C:\Users\maks\source\repos\Semester_2.1\TextAnalyzer\obj\Debug\TextAnalyzer.Form2.resources
+C:\Users\maks\source\repos\Semester_2.1\TextAnalyzer\obj\Debug\TextAnalyzer.exe
+C:\Users\maks\source\repos\Semester_2.1\TextAnalyzer\obj\Debug\TextAnalyzer.pdb
+C:\Users\maks\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\source\repos\Semester_2.1\TextAnalyzer\bin\Debug\TextAnalyzer.exe.config
+C:\Users\maks\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\source\repos\Semester_2.1\TextAnalyzer\bin\Debug\TextAnalyzer.exe
+C:\Users\maks\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\source\repos\Semester_2.1\TextAnalyzer\bin\Debug\TextAnalyzer.pdb
+C:\Users\maks\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\source\repos\Semester_2.1\TextAnalyzer\obj\Debug\TextAnalyzer.csproj.AssemblyReference.cache
+C:\Users\maks\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\source\repos\Semester_2.1\TextAnalyzer\obj\Debug\TextAnalyzer.csproj.SuggestedBindingRedirects.cache
+C:\Users\maks\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\source\repos\Semester_2.1\TextAnalyzer\obj\Debug\TextAnalyzer.Form1.resources
+C:\Users\maks\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\source\repos\Semester_2.1\TextAnalyzer\obj\Debug\TextAnalyzer.Form2.resources
+C:\Users\maks\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\source\repos\Semester_2.1\TextAnalyzer\obj\Debug\TextAnalyzer.Properties.Resources.resources
+C:\Users\maks\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\source\repos\Semester_2.1\TextAnalyzer\obj\Debug\TextAnalyzer.csproj.GenerateResource.cache
+C:\Users\maks\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\source\repos\Semester_2.1\TextAnalyzer\obj\Debug\TextAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\maks\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\source\repos\Semester_2.1\TextAnalyzer\obj\Debug\TextAnalyzer.exe
+C:\Users\maks\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\source\repos\Semester_2.1\TextAnalyzer\obj\Debug\TextAnalyzer.pdb
